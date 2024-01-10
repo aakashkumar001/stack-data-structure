@@ -4,7 +4,7 @@
   "description": "",
   "main": "Array.js",
   "scripts": {
-    "start": "nodemon Array.js"
+    "start": "nodemon Queue.js"
   },
   "keywords": [],
   "author": "",
